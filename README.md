@@ -1,6 +1,3 @@
-
-# `ccwc` Documentation
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Installation](#installation)
